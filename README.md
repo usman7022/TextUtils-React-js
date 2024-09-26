@@ -16,7 +16,7 @@ Welcome to the TextUtils project! This application is designed to provide users 
 
 ## Technology Used
 - React.js: A powerful JavaScript library for building interactive user interfaces.
-- Css: To Apply the style to see the attractive interface
+- Tailwind: To Apply the style to see the attractive interface
 
 ## Getting Started
 Prerequisites
