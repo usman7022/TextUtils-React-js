@@ -11,6 +11,7 @@ Welcome to the TextUtils project! This application is designed to provide users 
 - Text Cleanup: Remove extra spaces and special characters from text.
 - Word and Character Count: Get real-time feedback on word and character counts.
 - Copy to Clipboard: Quickly copy modified text to your clipboard.
+- Mode Change: Click on button to change the mode light and dark
 
 [Video.webm](https://github.com/user-attachments/assets/3682f58a-5a34-4667-a622-d32561e798aa)
 
